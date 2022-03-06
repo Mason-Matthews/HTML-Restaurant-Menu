@@ -15,6 +15,7 @@ h3,
 p,
 li {
     color: green;
+    text-align: center;
 }
 
 img {
@@ -28,6 +29,7 @@ main {
 }
 
 nav {
+    width: 100%;
     background-color: beige;
     padding: 10px;
 }
